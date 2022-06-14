@@ -1,0 +1,13 @@
+
+            .pretend { 
+                 font-style: Italic;color: indigo;}
+            .alphao{  font-style: bold; font-style: italic; font-family: Georgia, 'Times New Roman', Times, serif; color: goldenrod ;text-align: center; font-size: xx-large;}
+            .maybe{color:darkslategrey; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+            .probably{font-style: italic;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: black;}
+            .almost{color:black; font-style:  bold;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+            .mostly{color:black; font-style:  italic;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size: medium;}
+            .how{color: goldenrod;text-align: center; font-family: 'Courier New', Courier, monospace;}
+            .only{color:indigo; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+            .what{color:darkslategrey; font-family:'Times New Roman', Times, serif}
+            .why{color:darkgreen; font-family:'Times New Roman', Times, serif}
+           .howz{ align-self: center;bottom: 555px;}
